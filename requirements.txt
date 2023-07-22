@@ -1,0 +1,11 @@
+flask
+flask_restful
+api.HelloApiHandler
+flask_cors
+dotenv
+os
+mysql.connector
+requests
+bs4 
+random
+pymysql
