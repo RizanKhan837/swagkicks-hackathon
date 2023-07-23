@@ -21,7 +21,7 @@ git clone https://github.com/RizanKhan837/swagkicks-hackathon.git
 2. Navigate to the project's directory:
 
 ```bash
-cd sneaker-scraper
+cd swagkicks-hackathon
 ```
 
 3. Create a virtual environment (recommended) and activate it:
